@@ -1,5 +1,7 @@
 # Roster-Creation-Tool
 A CAC Barcode scanning tool to automate the physical roster signing process
+![Cac Scanning](https://github.com/hjordanv3/Roster-Creation-Tool/assets/111809137/6892347a-94b9-4858-83b3-b80bb30c28f3)
+
 
 This program is an expansion on jkusner's CACbarcode python script that can be found here: https://github.com/jkusner/CACBarcode
 
