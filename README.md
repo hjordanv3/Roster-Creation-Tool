@@ -9,4 +9,4 @@ The program adds a GUI that prompts users to start scanning the back of their Co
 
 ![RCT Screenshot](https://github.com/hjordanv3/Roster-Creation-Tool/assets/111809137/27ba627a-2c0e-4d4b-8ca8-22562636a463)
 
-I'm running into an issue where if the user presses "Save Roster" first, then attempts to press the "Transmit Roster" button, the roster won't be transmitted. Please feel free to iterate on this as you please, the source code will be provided and can be manipulated to make the application do whatever you want. Logic is included for use with 2D scanners to scan the front of the CAC as well, which includes more information.
+I'm running into an issue where if the user presses "Save Roster" first, then attempt to press the "Transmit Roster" button, the roster won't be transmitted. Please feel free to iterate on this as you please, the source code will be provided and can be manipulated to make the application do whatever you want. Logic is included for use with 2D scanners to scan the front of the CAC as well, which includes more information.
